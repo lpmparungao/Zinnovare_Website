@@ -1,5 +1,5 @@
 # Zinnovare-Website
 
-Working Food delivery service website using php, js, mysql db with admin and user pages.
+This is an e-commerce website using HTML, CSS, PHP, JavaScript, and XAMPP.
 
 original repository link: https://github.com/juriemaeac/Zinnovare-Website
